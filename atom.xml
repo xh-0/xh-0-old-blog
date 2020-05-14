@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suxiaohutot.github.io/</id>
     <title>Big cat の友人帐</title>
-    <updated>2020-05-10T13:41:34.014Z</updated>
+    <updated>2020-05-14T03:59:54.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suxiaohutot.github.io/"/>
     <link rel="self" href="https://suxiaohutot.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://suxiaohutot.github.io/images/avatar.png</logo>
     <icon>https://suxiaohutot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Big cat の友人帐</rights>
+    <entry>
+        <title type="html"><![CDATA[最后一张牛皮纸]]></title>
+        <id>https://suxiaohutot.github.io/post/end-paper/</id>
+        <link href="https://suxiaohutot.github.io/post/end-paper/">
+        </link>
+        <updated>2020-05-14T03:49:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>👦预热篇，情景期待……<br>
+👩青春的慢步曲</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👦预热篇，情景期待……<br>
+👩青春的慢步曲</p>
+<!-- more -->
+<p>下面的故事很长，由我慢慢道来😬，请搬好小板凳，依次排队做好，我要开始讲话了，咳咳~~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Friend Mr Dou]]></title>
         <id>https://suxiaohutot.github.io/post/hello-friend-douzi/</id>
