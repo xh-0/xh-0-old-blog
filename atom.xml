@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suxiaohutot.github.io/</id>
     <title>Big cat の友人帐</title>
-    <updated>2021-05-23T07:25:56.657Z</updated>
+    <updated>2021-05-25T04:45:33.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suxiaohutot.github.io/"/>
     <link rel="self" href="https://suxiaohutot.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://suxiaohutot.github.io/images/avatar.png</logo>
     <icon>https://suxiaohutot.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Big cat の友人帐</rights>
+    <entry>
+        <title type="html"><![CDATA[说点啥呢]]></title>
+        <id>https://suxiaohutot.github.io/post/speak2021525/</id>
+        <link href="https://suxiaohutot.github.io/post/speak2021525/">
+        </link>
+        <updated>2021-05-25T04:27:10.000Z</updated>
+        <summary type="html"><![CDATA[<p>😏追风少年还在继续<br>
+😳他的故事还没有停止</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>😏追风少年还在继续<br>
+😳他的故事还没有停止</p>
+<!-- more -->
+<h2 id="琐碎日记">琐碎日记</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[琐碎罢了]]></title>
         <id>https://suxiaohutot.github.io/post/diary-first/</id>
