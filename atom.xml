@@ -2,14 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://suxiaohutot.github.io/</id>
     <title>Big cat の友人帐</title>
-    <updated>2021-06-24T16:56:04.874Z</updated>
+    <updated>2022-04-19T14:00:57.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://suxiaohutot.github.io/"/>
     <link rel="self" href="https://suxiaohutot.github.io/atom.xml"/>
     <subtitle>“欲买桂花同载酒，终不似，少年游”</subtitle>
     <logo>https://suxiaohutot.github.io/images/avatar.png</logo>
     <icon>https://suxiaohutot.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Big cat の友人帐</rights>
+    <rights>All rights reserved 2022, Big cat の友人帐</rights>
+    <entry>
+        <title type="html"><![CDATA[working]]></title>
+        <id>https://suxiaohutot.github.io/post/working/</id>
+        <link href="https://suxiaohutot.github.io/post/working/">
+        </link>
+        <updated>2022-04-19T13:15:07.000Z</updated>
+        <summary type="html"><![CDATA[<p>👻👻起风了还在继续<br>
+🦝🦝我的青春结束了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👻👻起风了还在继续<br>
+🦝🦝我的青春结束了</p>
+<!-- more -->
+<h2 id="说在开始">说在开始</h2>
+<p>很久没有更新博客了，记得上一次更新还是上一次😁。</p>
+<h2 id="从何说起">从何说起</h2>
+<p>那就从去年没有讲的故事说起吧，我在去年(也就是2021年)准备考研了，emmm，然后我落榜了，但是我的英语不负有心人比之前真的进步了不少，<br>
+（暂存，下次写，先处理图片托管问题）</p>
+<h2 id="测试托管图片页面-测试测试测试咯">测试托管图片页面 测试测试测试咯😁😁😁😁😁😁😁😁🤣😃😄</h2>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[琐碎生活]]></title>
         <id>https://suxiaohutot.github.io/post/speak2021617/</id>
